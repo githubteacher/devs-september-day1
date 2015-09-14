@@ -5,3 +5,5 @@
 - favorite color blue
 - favorite fool Italian
 - loves :octocat:s
+
+Where should GitHubTeacher go eat dinner?
