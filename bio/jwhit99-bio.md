@@ -2,4 +2,5 @@
 
 - Works in Riverwoods IL
 - Lives in Algoqnuin IL
-- favorite color Green
+- favorite color is Green
+- favorite activity is Sleeping
