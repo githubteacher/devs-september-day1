@@ -8,3 +8,4 @@
 ## Recommended Food
 * Lou Malnati's Pizza
 * Wildfire for steaks
+  * Do try the horseradish encrusted strip
