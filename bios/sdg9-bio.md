@@ -5,3 +5,8 @@
 - Can clap with one hand
 - Can make changes locally
 - Can make further local changes
+
+## Places to eat
+- Little Caesars
+- McDonalds
+- Old Country Buffet
