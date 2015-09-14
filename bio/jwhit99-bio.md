@@ -7,3 +7,4 @@
 
 Where should GitHubTeacher go to eat dinner?
 I recommend Giordanos (best chicago deep dish pizza i think)
+Thanks for the recommendation.
