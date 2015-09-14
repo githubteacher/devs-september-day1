@@ -3,3 +3,4 @@
 - favorite food Italian
 - lives in chicago
 - favorite color red
+- hate cold weathers
