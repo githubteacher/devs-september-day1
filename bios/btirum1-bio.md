@@ -3,3 +3,4 @@
 - favorite food Italian
 - lives in chicago
 - favorite color red
+- its been 4 years still cldnt adjust to cold weather
