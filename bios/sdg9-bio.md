@@ -8,5 +8,6 @@
 
 ## Places to eat
 - Little Caesars
+  - WUT
 - McDonalds
 - Old Country Buffet
