@@ -7,8 +7,11 @@ I am an software engineer in Digital Development.
 ## Programming Interests
 * Google Go
 * NodeJS
+* OSS
 * Cloud
+* Github
 
 ## Favorite People
 * Arnold Schwarzenegger
 * Rocky Balboa
+
