@@ -1,4 +1,4 @@
 ## About me
 
 - Living in Illinois
-- Working at Discover
+- Working at Discover, BT
